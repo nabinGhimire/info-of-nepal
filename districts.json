@@ -1,0 +1,465 @@
+[
+   {
+      "id": "1",
+      "district_name": "Taplejung",
+      "district_headquarter": "Taplejung",
+      "province": "1"
+   },
+   {
+      "id": "2",
+      "district_name": "Panchthar",
+      "district_headquarter": "Phidim",
+      "province": "1"
+   },
+   {
+      "id": "3",
+      "district_name": "Ilam",
+      "district_headquarter": "Ilam",
+      "province": "1"
+   },
+   {
+      "id": "4",
+      "district_name": "Jhapa",
+      "district_headquarter": "Chandragadi",
+      "province": "1"
+   },
+   {
+      "id": "5",
+      "district_name": "Morang",
+      "district_headquarter": "Biratnagar",
+      "province": "1"
+   },
+   {
+      "id": "6",
+      "district_name": "Sunsari",
+      "district_headquarter": "Inaruwa",
+      "province": "1"
+   },
+   {
+      "id": "7",
+      "district_name": "Dhankutta",
+      "district_headquarter": "Dhankutta",
+      "province": "1"
+   },
+   {
+      "id": "8",
+      "district_name": "Terhathum",
+      "district_headquarter": "Terhathum",
+      "province": "1"
+   },
+   {
+      "id": "9",
+      "district_name": "Sankhuwasabha",
+      "district_headquarter": "Khandbari",
+      "province": "1"
+   },
+   {
+      "id": "10",
+      "district_name": "Bhojpur",
+      "district_headquarter": "Bhojpur",
+      "province": "1"
+   },
+   {
+      "id": "11",
+      "district_name": "Solukhumbu",
+      "district_headquarter": "Solusalleri",
+      "province": "1"
+   },
+   {
+      "id": "12",
+      "district_name": "Okhaldhunga",
+      "district_headquarter": "Okhaldhunga",
+      "province": "1"
+   },
+   {
+      "id": "13",
+      "district_name": "Khotang",
+      "district_headquarter": "Diktel",
+      "province": "1"
+   },
+   {
+      "id": "14",
+      "district_name": "Udayapur",
+      "district_headquarter": "Gaighat",
+      "province": "1"
+   },
+   {
+      "id": "15",
+      "district_name": "Saptari",
+      "district_headquarter": "Rajbiraj",
+      "province": "2" 
+   },
+   {
+      "id": "16",
+      "district_name": "Siraha",
+      "district_headquarter": "Siraha",
+      "province": "2" 
+   },
+   {
+      "id": "17",
+      "district_name": "Dhanusa",
+      "district_headquarter": "Janakpur",
+      "province": "2"
+   },
+   {
+      "id": "18",
+      "district_name": "Mahottari",
+      "district_headquarter": "Jaleshwor",
+      "province": "2"
+   },
+   {
+      "id": "19",
+      "district_name": "Sarlahi",
+      "district_headquarter": "Malangwa",
+      "province": "2"
+   },
+   {
+      "id": "20",
+      "district_name": "Rautahat",
+      "district_headquarter": "Gaur",
+      "province": "2"
+   },
+   {
+      "id": "21",
+      "district_name": "Bara",
+      "district_headquarter": "Kalaiya",
+      "province": "2"
+   },
+   {
+      "id": "22",
+      "district_name": "Parsa",
+      "district_headquarter": "Birgunj",
+      "province": "2"
+   },
+
+   {
+      "id": "23",
+      "district_name": "Sindhuli",
+      "district_headquarter": "Sindhuligadi",
+      "province": "3"
+   },
+   {
+      "id": "24",
+      "district_name": "Ramechhap",
+      "district_headquarter": "Manthali",
+      "province": "3"
+   },
+   {
+      "id": "25",
+      "district_name": "Dolkha",
+      "district_headquarter": "Charikot",
+      "province": "3"
+   },
+   {
+      "id": "26",
+      "district_name": "Sindhupalchok",
+      "district_headquarter": "Chautara",
+      "province": "3"
+   },
+   {
+      "id": "27",
+      "district_name": "Kavrepalanchok",
+      "district_headquarter": "Ilam",
+      "province": "3"
+   },
+   {
+      "id": "28",
+      "district_name": "Lalitpur",
+      "district_headquarter": "Lalitpur",
+      "province": "3"
+   },
+   {
+      "id": "29",
+      "district_name": "Bhaktapur",
+      "district_headquarter": "Bhaktapur",
+      "province": "3"
+   },
+   {
+      "id": "30",
+      "district_name": "Kathmandu",
+      "district_headquarter": "Kathmandu",
+      "province": "3"
+   },
+   {
+      "id": "31",
+      "district_name": "Nuwakot",
+      "district_headquarter": "Bidur",
+      "province": "3"
+   },
+   {
+      "id": "32",
+      "district_name": "Rasuwa",
+      "district_headquarter": "Dhunche",
+      "province": "3"
+   },
+   {
+      "id": "33",
+      "district_name": "Dhading",
+      "district_headquarter": "Dhadingbeshi",
+      "province": "3"
+   },
+   {
+      "id": "34",
+      "district_name": "Makwanpur",
+      "district_headquarter": "Hetauda",
+      "province": "3"
+   },
+   {
+      "id": "35",
+      "district_name": "Chitwan",
+      "district_headquarter": "Bharatpur",
+      "province": "3"
+   },
+   {
+      "id": "36",
+      "district_name": "Gorkha",
+      "district_headquarter": "Gorkha",
+      "province": "4"
+   },
+   {
+      "id": "37",
+      "district_name": "Lamjung",
+      "district_headquarter": "Beshisahar",
+      "province": "4"
+   },
+   {
+      "id": "38",
+      "district_name": "Tanahun",
+      "district_headquarter": "Damauli",
+      "province": "4"
+   },
+   {
+      "id": "39",
+      "district_name": "Nawalpur",
+      "district_headquarter": "Kawasoti",
+      "province": 4
+   },
+   {
+      "id": "40",
+      "district_name": "Syangja",
+      "district_headquarter": "Putalikhel",
+      "province": "4"
+   },
+   {
+      "id": "41",
+      "district_name": "Kaski",
+      "district_headquarter": "Pokhara",
+      "province": "4"
+   },
+   {
+      "id": "42",
+      "district_name": "Manang",
+      "district_headquarter": "Chame",
+      "province": "4"
+   },
+   {
+      "id": "43",
+      "district_name": "Mustang",
+      "district_headquarter": "Jomsom",
+      "province": "4"
+   },
+   {
+      "id": "44",
+      "district_name": "Myagdi",
+      "district_headquarter": "Baini",
+      "province": "4"
+   },
+   {
+      "id": "45",
+      "district_name": "Parwat",
+      "district_headquarter": "Kusma",
+      "province": "4"
+   },
+   {
+      "id": "46",
+      "district_name": "Baglung",
+      "district_headquarter": "Baglung",
+      "province": "4"
+   },
+   {
+      "id": "47",
+      "district_name": "Rukum East",
+      "district_headquarter": "Rukumkot",
+      "province": "5"
+   },
+   {
+      "id": "48",
+      "district_name": "Rolpa",
+      "district_headquarter": "Libang",
+      "province": "5"
+   },
+   {
+      "id": "49",
+      "district_name": "Pyuthan",
+      "district_headquarter": "Pyuthan",
+      "province": "5"
+   },
+   {
+      "id": "50",
+      "district_name": "Gulmi",
+      "district_headquarter": "Tamghas",
+      "province": "5"
+   },
+   {
+      "id": "51",
+      "district_name": "Palpa",
+      "district_headquarter": "Tansen",
+      "province": "5"
+   },
+   {
+      "id": "52",
+      "district_name": "Parasi",
+      "district_headquarter": "Ramgram",
+      "province": "5"
+   },
+   {
+      "id": "53",
+      "district_name": "Rupandehi",
+      "district_headquarter": "Siddharthanagar",
+      "province": "5"
+   },
+   {
+      "id": "54",
+      "district_name": "Kapilvastu",
+      "district_headquarter": "Kapilvastu",
+      "province": "5"
+   },
+   {
+      "id": "55",
+      "district_name": "Arghakhanchi",
+      "district_headquarter": "Sandhikarka",
+      "province": "5"
+   },
+   {
+      "id": "56",
+      "district_name": "Dang",
+      "district_headquarter": "Ghorahi",
+      "province":  "5"
+   },
+   {
+      "id": "57",
+      "district_name": "Banke",
+      "district_headquarter": "Nepalgunj",
+      "province": "5"
+   },
+   {
+      "id": "58",
+      "district_name": "Bardiya",
+      "district_headquarter": "Gulriya",
+      "province": "5"
+   },
+   {
+      "id": "59",
+      "district_name": "Rukum West",
+      "district_headquarter": "Musikot",
+      "province": "6"
+   },
+   {
+      "id": "60",
+      "district_name": "Salyan",
+      "district_headquarter": "Salyan",
+      "province": "6"
+   },
+   {
+      "id": "61",
+      "district_name": "Surkhet",
+      "district_headquarter": "Birendranagar",
+      "province": "6"
+   },
+   {
+      "id": "62",
+      "district_name": "Dailekh",
+      "district_headquarter": "Narayan",
+      "province": "6"
+   }, 
+   {
+      "id": "63",
+      "district_name": "Jajarkot",
+      "district_headquarter": "Jajarkot",
+      "province":  "6"
+   },
+   {
+      "id": "64",
+      "district_name": "Dolpa",
+      "district_headquarter": "Dunai",
+      "province": "6"
+   },
+   {
+      "id": "65",
+      "district_name": "Jumla",
+      "district_headquarter": "Jumla",
+      "province": "6"
+   },
+   {
+      "id": "66",
+      "district_name": "Kalikot",
+      "district_headquarter": "Manma",
+      "province": "6"
+   },
+   {
+      "id": "67",
+      "district_name": "Mugu",
+      "district_headquarter": "Gamgadi",
+      "province": "6"
+   },
+   {
+      "id": "68",
+      "district_name": "Humla",
+      "district_headquarter": "Simikot",
+      "province": "6"
+   },
+   {
+      "id": "69",
+      "district_name": "Bajura",
+      "district_headquarter": "Martadi",
+      "province": "7"
+   },
+   {
+      "id": "70",
+      "district_name": "Bajhang",
+      "district_headquarter": "Chainpur",
+      "province": "7"
+   },
+   {
+      "id": "71",
+      "district_name": "Achham",
+      "district_headquarter": "Mangalsen",
+      "province": "7"
+   },
+   {
+      "id": "72",
+      "district_name": "Doti",
+      "district_headquarter": "Silgadi",
+      "province": "7"
+   },
+   {
+      "id": "73",
+      "district_name": "Kailali",
+      "district_headquarter": "Dhangadi",
+      "province": "7"
+   },
+   {
+      "id": "74",
+      "district_name": "Kanchanpur",
+      "district_headquarter": "Mahendranagar",
+      "province": "7"
+   },
+   {
+      "id": "75",
+      "district_name": "Dadeldhura",
+      "district_headquarter": "Dadeldhura",
+      "province": "7"
+   },
+   {
+      "id": "76",
+      "district_name": "Baitadi",
+      "district_headquarter": "Baitadi",
+      "province": "7"
+   },
+   {
+      "id": "77",
+      "district_name": "Darchula",
+      "district_headquarter": "Darchula",
+      "province": "7"
+   }
+]
