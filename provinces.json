@@ -1,0 +1,37 @@
+[
+	{
+		"id": "1",
+		"Name": "Province No 1",
+		"Capital": "Biratnagar"
+	},
+	{
+		"id": "2",
+		"Name": "Province No 2",
+		"Capital": "Janakpur"
+	},
+	{
+		"id": "3",
+		"Name": "Province No 3",
+		"Capital": "Hetauda"
+	},
+	{
+		"id": "4",
+		"Name": "Gandaki Pradesh",
+		"Capital": "Pokhara"
+	},
+	{
+		"id": "5",
+		"Name": "Province No 5",
+		"Capital": "Butwal"
+	},
+	{
+		"id": "6",
+		"Name": "Karnali Pradesh",
+		"Capital": "Birendranagar"
+	},
+	{
+		"id": "7",
+		"Name": "Sudurpashchim Pradesh",
+		"Capital": "Godawari"
+	}
+]
