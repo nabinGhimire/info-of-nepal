@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "citytype_english": "Metropolitan city",
+        "citytype_nepali": "महानगरपालिका"
+    },
+    {
+        "id": "2",
+        "citytype_english": "Sub-metropolitan city",
+        "citytype_nepali": "उप-महानगरपालिका"
+    },
+    {
+        "id": "3",
+        "citytype_english": "Municipality",
+        "citytype_nepali": "नगरपालिका"
+    }
+ ]
