@@ -1,0 +1,2346 @@
+[
+        {
+            "id": "1",
+            "cityname_english": "Kathmandu",
+            "cityname_nepali": "काठमाण्डौ",
+            "district": "30",
+            "population": "975453",
+            "city_type": "1"
+        },
+        {
+            "id": "2",
+            "cityname_english": "Pokhara",
+            "cityname_nepali": "पोखरा",
+            "district": "41",
+            "population": "426759",
+            "city_type": "1"
+        },
+        {
+            "id": "3",
+            "cityname_english": "Lalitpur",
+            "cityname_nepali": "ललितपुर",
+            "district": "28",
+            "population": "284922",
+            "city_type": "1"
+        },
+        {
+            "id": "4",
+            "cityname_english": "Bharatpur",
+            "cityname_nepali": "भरतपुर",
+            "district": "35",
+            "population": "280502",
+            "city_type": "1"
+        },
+        {
+            "id": "5",
+            "cityname_english": "Birgunj",
+            "cityname_nepali": "बिरगंज",
+            "district": "22",
+            "population": "240922",
+            "city_type": "1"
+        },
+        {
+            "id": "6",
+            "cityname_english": "Biratnagar",
+            "cityname_nepali": "विराटनगर",
+            "district": "5",
+            "population": "214663",
+            "city_type": "1"
+        },
+        {
+            "id": "7",
+            "cityname_english": "Janakpur",
+            "cityname_nepali": "जनकपुर",
+            "district": "17",
+            "population": "159468",
+            "city_type": "2"
+        },
+        {
+            "id": "8",
+            "cityname_english": "Ghorahi",
+            "cityname_nepali": "घोराही",
+            "district": "56",
+            "population": "156164",
+            "city_type": "2"
+        },
+        {
+            "id": "9",
+            "cityname_english": "Hetauda",
+            "cityname_nepali": "हेटौडा",
+            "district": "34",
+            "population": "152875",
+            "city_type": "2"
+        },
+        {
+            "id": "10",
+            "cityname_english": "Dhangadhi",
+            "cityname_nepali": "धनगढी",
+            "district": "73",
+            "population": "147741",
+            "city_type": "2"
+        },
+        {
+            "id": "11",
+            "cityname_english": "Tulsipur",
+            "cityname_nepali": "तुल्सिपुर",
+            "district": "56",
+            "population": "141528",
+            "city_type": "2"
+        },
+        {
+            "id": "12",
+            "cityname_english": "Itahari",
+            "cityname_nepali": "ईटहरी",
+            "district": "6",
+            "population": "140517",
+            "city_type": "2"
+        },
+        {
+            "id": "13",
+            "cityname_english": "Nepalgunj",
+            "cityname_nepali": "नेपालगंज",
+            "district": "57",
+            "population": "138951",
+            "city_type": "2"
+        },
+        {
+            "id": "14",
+            "cityname_english": "Butwal",
+            "cityname_nepali": "बुटवल",
+            "district": "53",
+            "population": "138741",
+            "city_type": "2"
+        },
+        {
+            "id": "15",
+            "cityname_english": "Dharan",
+            "cityname_nepali": "धरान",
+            "district": "6",
+            "population": "137705",
+            "city_type": "2"
+        },
+        {
+            "id": "16",
+            "cityname_english": "Kalaiya",
+            "cityname_nepali": "कलैया",
+            "district": "21",
+            "population": "123659",
+            "city_type": "2"
+        },
+        {
+            "id": "17",
+            "cityname_english": "Jitpur Simara",
+            "cityname_nepali": "जीतपुरसिमरा",
+            "district": "21",
+            "population": "117496",
+            "city_type": "2"
+        },
+        {
+            "id": "18",
+            "cityname_english": "Mechinagar",
+            "cityname_nepali": "मेची नगर",
+            "district": "4",
+            "population": "111797",
+            "city_type": "3"
+        },
+        {
+            "id": "19",
+            "cityname_english": "Budhanilkantha",
+            "cityname_nepali": "बुढानिलकण्ठ",
+            "district": "30",
+            "population": "107918",
+            "city_type": "3"
+        },
+        {
+            "id": "20",
+            "cityname_english": "Gokarneshwor",
+            "cityname_nepali": "गोकर्णेश्वर",
+            "district": "30",
+            "population": "107351",
+            "city_type": "3"
+        },
+        {
+            "id": "21",
+            "cityname_english": "Bheemdatta",
+            "cityname_nepali": "भीमदत्त",
+            "district": "74",
+            "population": "104599",
+            "city_type": "3"
+        },
+        {
+            "id": "22",
+            "cityname_english": "Birendranagar",
+            "cityname_nepali": "बीरेन्द्रनगर",
+            "district": "61",
+            "population": "100458",
+            "city_type": "3"
+        },
+        {
+            "id": "23",
+            "cityname_english": "Tilottama",
+            "cityname_nepali": "तिलोत्तमा",
+            "district": "53",
+            "population": "100149",
+            "city_type": "3"
+        },
+        {
+            "id": "24",
+            "cityname_english": "Tokha",
+            "cityname_nepali": "टोखा",
+            "district": "30",
+            "population": "99032",
+            "city_type": "3"
+        },
+        {
+            "id": "25",
+            "cityname_english": "Lahan",
+            "cityname_nepali": "लहान",
+            "district": "16",
+            "population": "91766",
+            "city_type": "3"
+        },
+        {
+            "id": "26",
+            "cityname_english": "Triyuga",
+            "cityname_nepali": "त्रियुगा",
+            "district": "14",
+            "population": "87557",
+            "city_type": "3"
+        },
+        {
+            "id": "27",
+            "cityname_english": "Chandragiri",
+            "cityname_nepali": "चन्द्रागिरी",
+            "district": "30",
+            "population": "85198",
+            "city_type": "3"
+        },
+        {
+            "id": "28",
+            "cityname_english": "Madhyapur Thimi",
+            "cityname_nepali": "मध्यपुर थिमी",
+            "district": "29",
+            "population": "83036",
+            "city_type": "3"
+        },
+        {
+            "id": "29",
+            "cityname_english": "Siraha",
+            "cityname_nepali": "सिरहा",
+            "district": "16",
+            "population": "82531",
+            "city_type": "3"
+        },
+        {
+            "id": "30",
+            "cityname_english": "Birtamod",
+            "cityname_nepali": "विर्तामोड",
+            "district": "4",
+            "population": "81878",
+            "city_type": "3"
+        },
+        {
+            "id": "31",
+            "cityname_english": "Bhaktapur",
+            "cityname_nepali": "भक्तपुर",
+            "district": "29",
+            "population": "81728",
+            "city_type": "3"
+        },
+        {
+            "id": "32",
+            "cityname_english": "Tarakeshor",
+            "cityname_nepali": "तारकेश्वर",
+            "district": "30",
+            "population": "81443",
+            "city_type": "3"
+        },
+        {
+            "id": "33",
+            "cityname_english": "Sundar Haraincha",
+            "cityname_nepali": "सुन्दरहरैंचा",
+            "district": "5",
+            "population": "80518",
+            "city_type": "3"
+        },
+        {
+            "id": "34",
+            "cityname_english": "Suryabinayak",
+            "cityname_nepali": "सूर्यविनायक",
+            "district": "29",
+            "population": "78490",
+            "city_type": "3"
+        },
+        {
+            "id": "35",
+            "cityname_english": "Godawari",
+            "cityname_nepali": "गोदावरी",
+            "district": "28",
+            "population": "78301",
+            "city_type": "3"
+        },
+        {
+            "id": "36",
+            "cityname_english": "Godawari, Seti",
+            "cityname_nepali": "गोदावरी",
+            "district": "73",
+            "population": "78018",
+            "city_type": "3"
+        },
+        {
+            "id": "37",
+            "cityname_english": "Barahachhetra",
+            "cityname_nepali": "बराहक्षेत्र",
+            "district": "6",
+            "population": "77408",
+            "city_type": "3"
+        },
+        {
+            "id": "38",
+            "cityname_english": "Tikapur",
+            "cityname_nepali": "टिकापुर",
+            "district": "73",
+            "population": "76984",
+            "city_type": "3"
+        },
+        {
+            "id": "39",
+            "cityname_english": "Kapilvastu",
+            "cityname_nepali": "कपिलवस्तु",
+            "district": "54",
+            "population": "76394",
+            "city_type": "3"
+        },
+        {
+            "id": "40",
+            "cityname_english": "Ghodaghodi",
+            "cityname_nepali": "घोडाघोडी",
+            "district": "73",
+            "population": "75586",
+            "city_type": "3"
+        },
+        {
+            "id": "41",
+            "cityname_english": "Lamki Chuha",
+            "cityname_nepali": "लम्की चुहा",
+            "district": "73",
+            "population": "75425",
+            "city_type": "3"
+        },
+        {
+            "id": "42",
+            "cityname_english": "Banganga",
+            "cityname_nepali": "बाणगंगा",
+            "district": "54",
+            "population": "75242",
+            "city_type": "3"
+        },
+        {
+            "id": "43",
+            "cityname_english": "Damak",
+            "cityname_nepali": "दमक",
+            "district": "4",
+            "population": "75102",
+            "city_type": "3"
+        },
+        {
+            "id": "44",
+            "cityname_english": "Lumbini Sanskritik",
+            "cityname_nepali": "लुम्बिनी सांस्कृतिक",
+            "district": "53",
+            "population": "72497",
+            "city_type": "3"
+        },
+        {
+            "id": "45",
+            "cityname_english": "Chandrapur",
+            "cityname_nepali": "चन्द्रपुर",
+            "district": "20",
+            "population": "72059",
+            "city_type": "3"
+        },
+        {
+            "id": "46",
+            "cityname_english": "Kohalpur",
+            "cityname_nepali": "कोहलपुर",
+            "district": "57",
+            "population": "70647",
+            "city_type": "3"
+        },
+        {
+            "id": "47",
+            "cityname_english": "Vyas",
+            "cityname_nepali": "व्यास",
+            "district": "38",
+            "population": "70335",
+            "city_type": "3"
+        },
+        {
+            "id": "48",
+            "cityname_english": "Ratnanagar",
+            "cityname_nepali": "रत्ननगर",
+            "district": "35",
+            "population": "69848",
+            "city_type": "3"
+        },
+        {
+            "id": "49",
+            "cityname_english": "Barahathawa",
+            "cityname_nepali": "बरहथवा",
+            "district": "19",
+            "population": "69822",
+            "city_type": "3"
+        },
+        {
+            "id": "50",
+            "cityname_english": "Rajbiraj",
+            "cityname_nepali": "राजविराज",
+            "district": "15",
+            "population": "69086",
+            "city_type": "3"
+        },
+        {
+            "id": "51",
+            "cityname_english": "Barbardiya",
+            "cityname_nepali": "बारबर्दिया",
+            "district": "58",
+            "population": "68012",
+            "city_type": "3"
+        },
+        {
+            "id": "52",
+            "cityname_english": "Shivaraj",
+            "cityname_nepali": "शिवराज",
+            "district": "54",
+            "population": "66781",
+            "city_type": "3"
+        },
+        {
+            "id": "53",
+            "cityname_english": "Gulariya",
+            "cityname_nepali": "गुलरिया",
+            "district": "58",
+            "population": "66679",
+            "city_type": "3"
+        },
+        {
+            "id": "54",
+            "cityname_english": "Gaushala",
+            "cityname_nepali": "गौशाला",
+            "district": "18",
+            "population": "66673",
+            "city_type": "3"
+        },
+        {
+            "id": "55",
+            "cityname_english": "Bardibas",
+            "cityname_nepali": "बर्दिबास",
+            "district": "18",
+            "population": "66354",
+            "city_type": "3"
+        },
+        {
+            "id": "56",
+            "cityname_english": "Belbaari",
+            "cityname_nepali": "बेलवारी",
+            "district": "5",
+            "population": "65892",
+            "city_type": "3"
+        },
+        {
+            "id": "57",
+            "cityname_english": "Kirtipur",
+            "cityname_nepali": "किर्तिपुर",
+            "district": "30",
+            "population": "65602",
+            "city_type": "3"
+        },
+        {
+            "id": "58",
+            "cityname_english": "Bhadrapur",
+            "cityname_nepali": "भद्रपुर",
+            "district": "4",
+            "population": "65543",
+            "city_type": "3"
+        },
+        {
+            "id": "59",
+            "cityname_english": "Nagarjun",
+            "cityname_nepali": "नागार्जुन",
+            "district": "30",
+            "population": "65420",
+            "city_type": "3"
+        },
+        {
+            "id": "60",
+            "cityname_english": "Dudhauli",
+            "cityname_nepali": "दुधौली",
+            "district": "23",
+            "population": "65302",
+            "city_type": "3"
+        },
+        {
+            "id": "61",
+            "cityname_english": "Kamalamai",
+            "cityname_nepali": "कमलामाई",
+            "district": "23",
+            "population": "65064",
+            "city_type": "3"
+        },
+        {
+            "id": "62",
+            "cityname_english": "Buddhabhumi",
+            "cityname_nepali": "बुद्धभूमी",
+            "district": "54",
+            "population": "64949",
+            "city_type": "3"
+        },
+        {
+            "id": "63",
+            "cityname_english": "Shiva Sataxi",
+            "cityname_nepali": "शिवसताक्षि",
+            "district": "4",
+            "population": "64596",
+            "city_type": "3"
+        },
+        {
+            "id": "64",
+            "cityname_english": "Inaruwa",
+            "cityname_nepali": "ईनरुवा",
+            "district": "6",
+            "population": "63593",
+            "city_type": "3"
+        },
+        {
+            "id": "65",
+            "cityname_english": "Siddharthanagar",
+            "cityname_nepali": "सिद्धार्थनगर",
+            "district": "53",
+            "population": "63483",
+            "city_type": "3"
+        },
+        {
+            "id": "66",
+            "cityname_english": "Pathari Shanischare",
+            "cityname_nepali": "पथरी शनिश्चरे",
+            "district": "5",
+            "population": "62440",
+            "city_type": "3"
+        },
+        {
+            "id": "67",
+            "cityname_english": "Kawasoti",
+            "cityname_nepali": "कावासोती",
+            "district": "39",
+            "population": "62421",
+            "city_type": "3"
+        },
+        {
+            "id": "68",
+            "cityname_english": "Krishnanagar",
+            "cityname_nepali": "कृष्णनगर",
+            "district": "54",
+            "population": "62370",
+            "city_type": "3"
+        },
+        {
+            "id": "69",
+            "cityname_english": "Mahalaxmi",
+            "cityname_nepali": "महालक्ष्मी",
+            "district": "28",
+            "population": "62172",
+            "city_type": "3"
+        },
+        {
+            "id": "70",
+            "cityname_english": "Kageshwori Manohara",
+            "cityname_nepali": "कागेश्वरी मनोहरा",
+            "district": "30",
+            "population": "60237",
+            "city_type": "3"
+        },
+        {
+            "id": "71",
+            "cityname_english": "Arjundhara",
+            "cityname_nepali": "अर्जुनधारा",
+            "district": "4",
+            "population": "60204",
+            "city_type": "3"
+        },
+        {
+            "id": "72",
+            "cityname_english": "Ishworpur",
+            "cityname_nepali": "ईश्वरपूर",
+            "district": "19",
+            "population": "59986",
+            "city_type": "3"
+        },
+        {
+            "id": "73",
+            "cityname_english": "Rajapur",
+            "cityname_nepali": "राजापुर",
+            "district": "58",
+            "population": "59553",
+            "city_type": "3"
+        },
+        {
+            "id": "74",
+            "cityname_english": "Ramgram",
+            "cityname_nepali": "रामग्राम",
+            "district": "52",
+            "population": "59455",
+            "city_type": "3"
+        },
+        {
+            "id": "75",
+            "cityname_english": "Lalbandi",
+            "cityname_nepali": "लालबन्दी",
+            "district": "19",
+            "population": "59395",
+            "city_type": "3"
+        },
+        {
+            "id": "76",
+            "cityname_english": "Gaindakot",
+            "cityname_nepali": "गैडाकोट",
+            "district": "39",
+            "population": "58836",
+            "city_type": "3"
+        },
+        {
+            "id": "77",
+            "cityname_english": "Jaleshwar",
+            "cityname_nepali": "जलेश्वर",
+            "district": "18",
+            "population": "58549",
+            "city_type": "3"
+        },
+        {
+            "id": "78",
+            "cityname_english": "Nilkantha",
+            "cityname_nepali": "निलकण्ठ",
+            "district": "33",
+            "population": "58515",
+            "city_type": "3"
+        },
+        {
+            "id": "79",
+            "cityname_english": "Baglung",
+            "cityname_nepali": "बागलुङ",
+            "district": "46",
+            "population": "57823",
+            "city_type": "3"
+        },
+        {
+            "id": "80",
+            "cityname_english": "Rapti",
+            "cityname_nepali": "राप्ती",
+            "district": "35",
+            "population": "57107",
+            "city_type": "3"
+        },
+        {
+            "id": "81",
+            "cityname_english": "Suryodaya",
+            "cityname_nepali": "सूर्योदय",
+            "district": "3",
+            "population": "56691",
+            "city_type": "3"
+        },
+        {
+            "id": "82",
+            "cityname_english": "Krishnapur",
+            "cityname_nepali": "कृष्णपुर",
+            "district": "74",
+            "population": "56643",
+            "city_type": "3"
+        },
+        {
+            "id": "83",
+            "cityname_english": "Duhabi",
+            "cityname_nepali": "दुहवी",
+            "district": "6",
+            "population": "56269",
+            "city_type": "3"
+        },
+        {
+            "id": "84",
+            "cityname_english": "Katari",
+            "cityname_nepali": "कटारी",
+            "district": "14",
+            "population": "56146",
+            "city_type": "3"
+        },
+        {
+            "id": "85",
+            "cityname_english": "Khairhani",
+            "cityname_nepali": "खैरहनी",
+            "district": "35",
+            "population": "56094",
+            "city_type": "3"
+        },
+        {
+            "id": "86",
+            "cityname_english": "Bansgadhi",
+            "cityname_nepali": "बासगढी",
+            "district": "58",
+            "population": "55875",
+            "city_type": "3"
+        },
+        {
+            "id": "87",
+            "cityname_english": "Sainamaina",
+            "cityname_nepali": "सैनामैना",
+            "district": "53",
+            "population": "55822",
+            "city_type": "3"
+        },
+        {
+            "id": "88",
+            "cityname_english": "Banepa",
+            "cityname_nepali": "बनेपा",
+            "district": "27",
+            "population": "55628",
+            "city_type": "3"
+        },
+        {
+            "id": "89",
+            "cityname_english": "Changunarayan",
+            "cityname_nepali": "चाँगुनारायण",
+            "district": "29",
+            "population": "55430",
+            "city_type": "3"
+        },
+        {
+            "id": "90",
+            "cityname_english": "Sunwal",
+            "cityname_nepali": "सुनवल",
+            "district": "52",
+            "population": "55424",
+            "city_type": "3"
+        },
+        {
+            "id": "91",
+            "cityname_english": "Bardghat",
+            "cityname_nepali": "बर्दघाट",
+            "district": "52",
+            "population": "55382",
+            "city_type": "3"
+        },
+        {
+            "id": "92",
+            "cityname_english": "Ratuwamai",
+            "cityname_nepali": "रतुवामाई",
+            "district": "5",
+            "population": "55380",
+            "city_type": "3"
+        },
+        {
+            "id": "93",
+            "cityname_english": "Gauriganga",
+            "cityname_nepali": "गौरीगंगा",
+            "district": "73",
+            "population": "55314",
+            "city_type": "3"
+        },
+        {
+            "id": "94",
+            "cityname_english": "Maharajgunj",
+            "cityname_nepali": "महाराजगंज",
+            "district": "54",
+            "population": "54800",
+            "city_type": "3"
+        },
+        {
+            "id": "95",
+            "cityname_english": "Urlabari",
+            "cityname_nepali": "उर्लावारी",
+            "district": "5",
+            "population": "54696",
+            "city_type": "3"
+        },
+        {
+            "id": "96",
+            "cityname_english": "Mahagadhimai",
+            "cityname_nepali": "महागढीमाई",
+            "district": "21",
+            "population": "54474",
+            "city_type": "3"
+        },
+        {
+            "id": "97",
+            "cityname_english": "Bidur",
+            "cityname_nepali": "विदुर",
+            "district": "31",
+            "population": "54351",
+            "city_type": "3"
+        },
+        {
+            "id": "98",
+            "cityname_english": "Madhyabindu",
+            "cityname_nepali": "मध्यविन्दु",
+            "district": "39",
+            "population": "54140",
+            "city_type": "3"
+        },
+        {
+            "id": "99",
+            "cityname_english": "Punarbas",
+            "cityname_nepali": "पुनर्वास",
+            "district": "74",
+            "population": "53633",
+            "city_type": "3"
+        },
+        {
+            "id": "100",
+            "cityname_english": "Belauri",
+            "cityname_nepali": "बेलौरी",
+            "district": "74",
+            "population": "53544",
+            "city_type": "3"
+        },
+        {
+            "id": "101",
+            "cityname_english": "Devdaha",
+            "cityname_nepali": "देवदह",
+            "district": "53",
+            "population": "53523",
+            "city_type": "3"
+        },
+        {
+            "id": "102",
+            "cityname_english": "Gauradaha",
+            "cityname_nepali": "गौरादह",
+            "district": "4",
+            "population": "53033",
+            "city_type": "3"
+        },
+        {
+            "id": "103",
+            "cityname_english": "Rangeli",
+            "cityname_nepali": "रंगेली",
+            "district": "5",
+            "population": "52013",
+            "city_type": "3"
+        },
+        {
+            "id": "104",
+            "cityname_english": "Bhajani",
+            "cityname_nepali": "भजनी",
+            "district": "73",
+            "population": "51845",
+            "city_type": "3"
+        },
+        {
+            "id": "105",
+            "cityname_english": "Ramdhuni",
+            "cityname_nepali": "रामधुनी",
+            "district": "6",
+            "population": "51752",
+            "city_type": "3"
+        },
+        {
+            "id": "106",
+            "cityname_english": "Waling",
+            "cityname_nepali": "वालिङ",
+            "district": "40",
+            "population": "51143",
+            "city_type": "3"
+        },
+        {
+            "id": "107",
+            "cityname_english": "Golbazar",
+            "cityname_nepali": "गोलबजार",
+            "district": "16",
+            "population": "51137",
+            "city_type": "3"
+        },
+        {
+            "id": "108",
+            "cityname_english": "Sunawarshi",
+            "cityname_nepali": "सुनवर्षी",
+            "district": "5",
+            "population": "50758",
+            "city_type": "3"
+        },
+        {
+            "id": "109",
+            "cityname_english": "Garuda",
+            "cityname_nepali": "गरुडा",
+            "district": "20",
+            "population": "50481",
+            "city_type": "3"
+        },
+        {
+            "id": "110",
+            "cityname_english": "Tansen",
+            "cityname_nepali": "तानसेन",
+            "district": "51",
+            "population": "50405",
+            "city_type": "3"
+        },
+        {
+            "id": "111",
+            "cityname_english": "Mirchaiya",
+            "cityname_nepali": "मिर्चैया",
+            "district": "16",
+            "population": "50079",
+            "city_type": "3"
+        },
+        {
+            "id": "112",
+            "cityname_english": "Simraungadh",
+            "cityname_nepali": "सिम्रोनगढ",
+            "district": "21",
+            "population": "49939",
+            "city_type": "3"
+        },
+        {
+            "id": "113",
+            "cityname_english": "Manara Shisawa",
+            "cityname_nepali": "मनरा शिसवा",
+            "district": "18",
+            "population": "49692",
+            "city_type": "3"
+        },
+        {
+            "id": "114",
+            "cityname_english": "Bedkot",
+            "cityname_nepali": "वेदकोट",
+            "district": "74",
+            "population": "49479",
+            "city_type": "3"
+        },
+        {
+            "id": "115",
+            "cityname_english": "Kalyanpur",
+            "cityname_nepali": "कल्याणपुर",
+            "district": "16",
+            "population": "49288",
+            "city_type": "3"
+        },
+        {
+            "id": "116",
+            "cityname_english": "Gorkha",
+            "cityname_nepali": "गोरखा",
+            "district": "36",
+            "population": "49272",
+            "city_type": "3"
+        },
+        {
+            "id": "117",
+            "cityname_english": "Phidim",
+            "cityname_nepali": "फिदिम",
+            "district": "2",
+            "population": "49201",
+            "city_type": "3"
+        },
+        {
+            "id": "118",
+            "cityname_english": "Chaudandigadhi",
+            "cityname_nepali": "चौदण्डीगढी",
+            "district": "14",
+            "population": "48578",
+            "city_type": "3"
+        },
+        {
+            "id": "119",
+            "cityname_english": "Ilam",
+            "cityname_nepali": "इलाम",
+            "district": "3",
+            "population": "48536",
+            "city_type": "3"
+        },
+        {
+            "id": "120",
+            "cityname_english": "Shuklagandaki",
+            "cityname_nepali": "शुक्लागण्डकी",
+            "district": "38",
+            "population": "48456",
+            "city_type": "3"
+        },
+        {
+            "id": "121",
+            "cityname_english": "Godaita",
+            "cityname_nepali": "गोडैता",
+            "district": "19",
+            "population": "47687",
+            "city_type": "3"
+        },
+        {
+            "id": "122",
+            "cityname_english": "Lamahi",
+            "cityname_nepali": "लमही",
+            "district": "56",
+            "population": "47655",
+            "city_type": "3"
+        },
+        {
+            "id": "123",
+            "cityname_english": "Dhangadimai",
+            "cityname_nepali": "धनगढीमाई",
+            "district": "16",
+            "population": "47449",
+            "city_type": "3"
+        },
+        {
+            "id": "124",
+            "cityname_english": "Diktel Rupakot Majuwagadhi",
+            "cityname_nepali": "दिक्तेल रुपाकोट मजुवागढी",
+            "district": "13",
+            "population": "46903",
+            "city_type": "3"
+        },
+        {
+            "id": "125",
+            "cityname_english": "Shuklaphanta",
+            "cityname_nepali": "शुक्लाफाँटा",
+            "district": "74",
+            "population": "46834",
+            "city_type": "3"
+        },
+        {
+            "id": "126",
+            "cityname_english": "Bhangaha",
+            "cityname_nepali": "भँगाहा",
+            "district": "18",
+            "population": "46754",
+            "city_type": "3"
+        },
+        {
+            "id": "127",
+            "cityname_english": "Paunauti",
+            "cityname_nepali": "पनौती",
+            "district": "27",
+            "population": "46595",
+            "city_type": "3"
+        },
+        {
+            "id": "128",
+            "cityname_english": "Gujara",
+            "cityname_nepali": "गुजरा",
+            "district": "20",
+            "population": "46592",
+            "city_type": "3"
+        },
+        {
+            "id": "129",
+            "cityname_english": "Malangwa",
+            "cityname_nepali": "मलङ्गवा",
+            "district": "19",
+            "population": "46516",
+            "city_type": "3"
+        },
+        {
+            "id": "130",
+            "cityname_english": "Chautara Sangachowkgadhi",
+            "cityname_nepali": "चौतारा साँगाचोकगढी",
+            "district": "26",
+            "population": "46501",
+            "city_type": "3"
+        },
+        {
+            "id": "131",
+            "cityname_english": "Madhuwan",
+            "cityname_nepali": "मधुवन",
+            "district": "58",
+            "population": "46437",
+            "city_type": "3"
+        },
+        {
+            "id": "132",
+            "cityname_english": "Sabaila",
+            "cityname_nepali": "सवैला",
+            "district": "17",
+            "population": "45879",
+            "city_type": "3"
+        },
+        {
+            "id": "133",
+            "cityname_english": "Bhanu",
+            "cityname_nepali": "भानु",
+            "district": "38",
+            "population": "45792",
+            "city_type": "3"
+        },
+        {
+            "id": "134",
+            "cityname_english": "Hanumannagar Kankalini",
+            "cityname_nepali": "हनुमाननगर कंकालिनी",
+            "district": "15",
+            "population": "45734",
+            "city_type": "3"
+        },
+        {
+            "id": "135",
+            "cityname_english": "Dhanushadham",
+            "cityname_nepali": "धनुषाधाम",
+            "district": "17",
+            "population": "45665",
+            "city_type": "3"
+        },
+        {
+            "id": "136",
+            "cityname_english": "Manthali",
+            "cityname_nepali": "मन्थली",
+            "district": "24",
+            "population": "45416",
+            "city_type": "3"
+        },
+        {
+            "id": "137",
+            "cityname_english": "Khadak",
+            "cityname_nepali": "खडक",
+            "district": "15",
+            "population": "45367",
+            "city_type": "3"
+        },
+        {
+            "id": "138",
+            "cityname_english": "Melamchi",
+            "cityname_nepali": "मेलम्ची",
+            "district": "26",
+            "population": "45343",
+            "city_type": "3"
+        },
+        {
+            "id": "139",
+            "cityname_english": "Balara",
+            "cityname_nepali": "बलरा",
+            "district": "19",
+            "population": "45194",
+            "city_type": "3"
+        },
+        {
+            "id": "140",
+            "cityname_english": "Mithila",
+            "cityname_nepali": "मिथिला",
+            "district": "17",
+            "population": "45164",
+            "city_type": "3"
+        },
+        {
+            "id": "141",
+            "cityname_english": "Putalibaazar",
+            "cityname_nepali": "पुतलीबजार",
+            "district": "40",
+            "population": "44876",
+            "city_type": "3"
+        },
+        {
+            "id": "142",
+            "cityname_english": "Dakneshwari",
+            "cityname_nepali": "दक्नेश्वारी",
+            "district": "15",
+            "population": "44782",
+            "city_type": "3"
+        },
+        {
+            "id": "143",
+            "cityname_english": "Thakurbaba",
+            "cityname_nepali": "ठाकुरबाबा",
+            "district": "58",
+            "population": "44361",
+            "city_type": "3"
+        },
+        {
+            "id": "144",
+            "cityname_english": "Surunga",
+            "cityname_nepali": "सुरुङ्‍गा",
+            "district": "15",
+            "population": "44221",
+            "city_type": "3"
+        },
+        {
+            "id": "145",
+            "cityname_english": "Hariwan",
+            "cityname_nepali": "हरिवन",
+            "district": "19",
+            "population": "43928",
+            "city_type": "3"
+        },
+        {
+            "id": "146",
+            "cityname_english": "Gurbhakot",
+            "cityname_nepali": "गुर्भाकोट",
+            "district": "61",
+            "population": "43765",
+            "city_type": "3"
+        },
+        {
+            "id": "147",
+            "cityname_english": "Sitganga",
+            "cityname_nepali": "सितगंगा",
+            "district": "55",
+            "population": "43373",
+            "city_type": "3"
+        },
+        {
+            "id": "148",
+            "cityname_english": "Bode Barsain",
+            "cityname_nepali": "बोदेबरसाईन",
+            "district": "15",
+            "population": "43229",
+            "city_type": "3"
+        },
+        {
+            "id": "149",
+            "cityname_english": "Kolhabi",
+            "cityname_nepali": "कोल्हवी",
+            "district": "21",
+            "population": "43036",
+            "city_type": "3"
+        },
+        {
+            "id": "150",
+            "cityname_english": "Shahidnagar",
+            "cityname_nepali": "शहिद नगर",
+            "district": "17",
+            "population": "43007",
+            "city_type": "3"
+        },
+        {
+            "id": "151",
+            "cityname_english": "Brindaban",
+            "cityname_nepali": "बृन्दावन",
+            "district": "20",
+            "population": "42735",
+            "city_type": "3"
+        },
+        {
+            "id": "152",
+            "cityname_english": "Devchuli",
+            "cityname_nepali": "देवचुली",
+            "district": "39",
+            "population": "42603",
+            "city_type": "3"
+        },
+        {
+            "id": "153",
+            "cityname_english": "Kshireshwor Nath",
+            "cityname_nepali": "क्षिरेश्वरनाथ",
+            "district": "17",
+            "population": "42541",
+            "city_type": "3"
+        },
+        {
+            "id": "154",
+            "cityname_english": "Belaka",
+            "cityname_nepali": "वेलका",
+            "district": "14",
+            "population": "42356",
+            "city_type": "3"
+        },
+        {
+            "id": "155",
+            "cityname_english": "Balawa",
+            "cityname_nepali": "बलवा",
+            "district": "18",
+            "population": "42341",
+            "city_type": "3"
+        },
+        {
+            "id": "156",
+            "cityname_english": "Kabilasi",
+            "cityname_nepali": "कविलासी",
+            "district": "19",
+            "population": "42336",
+            "city_type": "3"
+        },
+        {
+            "id": "157",
+            "cityname_english": "Kalika",
+            "cityname_nepali": "कालिका",
+            "district": "35",
+            "population": "41742",
+            "city_type": "3"
+        },
+        {
+            "id": "158",
+            "cityname_english": "Thaha",
+            "cityname_nepali": "थाहा",
+            "district": "34",
+            "population": "41623",
+            "city_type": "3"
+        },
+        {
+            "id": "159",
+            "cityname_english": "Dullu",
+            "cityname_nepali": "दुल्लु",
+            "district": "62",
+            "population": "41540",
+            "city_type": "3"
+        },
+        {
+            "id": "160",
+            "cityname_english": "Ishnath",
+            "cityname_nepali": "ईशनाथ",
+            "district": "20",
+            "population": "41435",
+            "city_type": "3"
+        },
+        {
+            "id": "161",
+            "cityname_english": "Bheriganga",
+            "cityname_nepali": "भेरीगंगा",
+            "district": "61",
+            "population": "41407",
+            "city_type": "3"
+        },
+        {
+            "id": "162",
+            "cityname_english": "Sandhikharka",
+            "cityname_nepali": "सन्धिखर्क",
+            "district": "55",
+            "population": "41079",
+            "city_type": "3"
+        },
+        {
+            "id": "163",
+            "cityname_english": "Rajpur",
+            "cityname_nepali": "राजपुर",
+            "district": "20",
+            "population": "41078",
+            "city_type": "3"
+        },
+        {
+            "id": "164",
+            "cityname_english": "Gadhimai",
+            "cityname_nepali": "गढीमाई",
+            "district": "20",
+            "population": "40410",
+            "city_type": "3"
+        },
+        {
+            "id": "165",
+            "cityname_english": "Bagmati",
+            "cityname_nepali": "बागमती",
+            "district": "19",
+            "population": "40399",
+            "city_type": "3"
+        },
+        {
+            "id": "166",
+            "cityname_english": "Kankai",
+            "cityname_nepali": "कन्काई",
+            "district": "4",
+            "population": "40141",
+            "city_type": "3"
+        },
+        {
+            "id": "167",
+            "cityname_english": "Belkotgadhi",
+            "cityname_nepali": "बेलकोटगढी",
+            "district": "31",
+            "population": "39888",
+            "city_type": "3"
+        },
+        {
+            "id": "168",
+            "cityname_english": "Bahudarmai",
+            "cityname_nepali": "बहुदरमाई",
+            "district": "22",
+            "population": "39673",
+            "city_type": "3"
+        },
+        {
+            "id": "169",
+            "cityname_english": "Kushma",
+            "cityname_nepali": "कुश्मा",
+            "district": "45",
+            "population": "39600",
+            "city_type": "3"
+        },
+        {
+            "id": "170",
+            "cityname_english": "Loharpatti",
+            "cityname_nepali": "लोहरपट्टी",
+            "district": "18",
+            "population": "39579",
+            "city_type": "3"
+        },
+        {
+            "id": "171",
+            "cityname_english": "Besishahar",
+            "cityname_nepali": "बेसीशहर",
+            "district": "37",
+            "population": "39356",
+            "city_type": "3"
+        },
+        {
+            "id": "172",
+            "cityname_english": "Mahakali",
+            "cityname_nepali": "माहाकाली",
+            "district": "74",
+            "population": "39253",
+            "city_type": "3"
+        },
+        {
+            "id": "173",
+            "cityname_english": "Purchaundi",
+            "cityname_nepali": "पुर्चौडी",
+            "district": "76",
+            "population": "39174",
+            "city_type": "3"
+        },
+        {
+            "id": "174",
+            "cityname_english": "Hansapur",
+            "cityname_nepali": "हंसपुर",
+            "district": "17",
+            "population": "39145",
+            "city_type": "3"
+        },
+        {
+            "id": "175",
+            "cityname_english": "Kamala",
+            "cityname_nepali": "कमला",
+            "district": "17",
+            "population": "38877",
+            "city_type": "3"
+        },
+        {
+            "id": "176",
+            "cityname_english": "Pyuthan",
+            "cityname_nepali": "प्यूठान",
+            "district": "49",
+            "population": "38449",
+            "city_type": "3"
+        },
+        {
+            "id": "177",
+            "cityname_english": "Katahariya",
+            "cityname_nepali": "कटहरीया",
+            "district": "20",
+            "population": "38413",
+            "city_type": "3"
+        },
+        {
+            "id": "178",
+            "cityname_english": "Palungtar",
+            "cityname_nepali": "पालुङटार",
+            "district": "36",
+            "population": "38174",
+            "city_type": "3"
+        },
+        {
+            "id": "179",
+            "cityname_english": "Parsagadhi",
+            "cityname_nepali": "पर्सागढी",
+            "district": "22",
+            "population": "38067",
+            "city_type": "3"
+        },
+        {
+            "id": "180",
+            "cityname_english": "Shambhunath",
+            "cityname_nepali": "शम्भुनाथ",
+            "district": "15",
+            "population": "38018",
+            "city_type": "3"
+        },
+        {
+            "id": "181",
+            "cityname_english": "Panchkhal",
+            "cityname_nepali": "पाँचखाल",
+            "district": "27",
+            "population": "37997",
+            "city_type": "3"
+        },
+        {
+            "id": "182",
+            "cityname_english": "Madi",
+            "cityname_nepali": "माडी",
+            "district": "35",
+            "population": "37683",
+            "city_type": "3"
+        },
+        {
+            "id": "183",
+            "cityname_english": "Sukhipur",
+            "cityname_nepali": "सुखीपुर",
+            "district": "16",
+            "population": "37592",
+            "city_type": "3"
+        },
+        {
+            "id": "184",
+            "cityname_english": "Paroha",
+            "cityname_nepali": "परोहा",
+            "district": "20",
+            "population": "37453",
+            "city_type": "3"
+        },
+        {
+            "id": "185",
+            "cityname_english": "Haripur",
+            "cityname_nepali": "हरिपुर",
+            "district": "19",
+            "population": "37351",
+            "city_type": "3"
+        },
+        {
+            "id": "186",
+            "cityname_english": "Ganeshman Charnath",
+            "cityname_nepali": "गणेशमान चारनाथ",
+            "district": "17",
+            "population": "37300",
+            "city_type": "3"
+        },
+        {
+            "id": "187",
+            "cityname_english": "Galyang",
+            "cityname_nepali": "गल्याङ",
+            "district": "40",
+            "population": "36967",
+            "city_type": "3"
+        },
+        {
+            "id": "188",
+            "cityname_english": "Dhankuta",
+            "cityname_nepali": "धनकुटा",
+            "district": "7",
+            "population": "36619",
+            "city_type": "3"
+        },
+        {
+            "id": "189",
+            "cityname_english": "Phatuwa Bijayapur",
+            "cityname_nepali": "फतुवाबिजयपुर",
+            "district": "20",
+            "population": "36533",
+            "city_type": "3"
+        },
+        {
+            "id": "190",
+            "cityname_english": "Baudhimai",
+            "cityname_nepali": "बौधीमाई",
+            "district": "20",
+            "population": "36265",
+            "city_type": "3"
+        },
+        {
+            "id": "191",
+            "cityname_english": "Bangad Kupinde",
+            "cityname_nepali": "बनगाड कुपिण्डे",
+            "district": "60",
+            "population": "36052",
+            "city_type": "3"
+        },
+        {
+            "id": "192",
+            "cityname_english": "Haripurwa",
+            "cityname_nepali": "हरिपुर्वा",
+            "district": "19",
+            "population": "36042",
+            "city_type": "3"
+        },
+        {
+            "id": "193",
+            "cityname_english": "Rampur",
+            "cityname_nepali": "रामपुर",
+            "district": "51",
+            "population": "35396",
+            "city_type": "3"
+        },
+        {
+            "id": "194",
+            "cityname_english": "Chhedagad",
+            "cityname_nepali": "छेडागाड",
+            "district": "63",
+            "population": "35295",
+            "city_type": "3"
+        },
+        {
+            "id": "195",
+            "cityname_english": "Kanchanrup",
+            "cityname_nepali": "कञ्चनरूप",
+            "district": "15",
+            "population": "35238",
+            "city_type": "3"
+        },
+        {
+            "id": "196",
+            "cityname_english": "Parashuram",
+            "cityname_nepali": "परशुराम",
+            "district": "75",
+            "population": "34983",
+            "city_type": "3"
+        },
+        {
+            "id": "197",
+            "cityname_english": "Nagarain",
+            "cityname_nepali": "नगराईन",
+            "district": "17",
+            "population": "35630",
+            "city_type": "3"
+        },
+        {
+            "id": "198",
+            "cityname_english": "Dasharath Chand",
+            "cityname_nepali": "दशरथचन्द",
+            "district": "76",
+            "population": "34575",
+            "city_type": "3"
+        },
+        {
+            "id": "199",
+            "cityname_english": "Nijgadh",
+            "cityname_nepali": "निजगढ",
+            "district": "21",
+            "population": "35335",
+            "city_type": "3"
+        },
+        {
+            "id": "200",
+            "cityname_english": "Madhav Narayan",
+            "cityname_nepali": "माधव नारायण",
+            "district": "20",
+            "population": "35175",
+            "city_type": "3"
+        },
+        {
+            "id": "201",
+            "cityname_english": "Gaur",
+            "cityname_nepali": "गौर",
+            "district": "20",
+            "population": "34937",
+            "city_type": "3"
+        },
+        {
+            "id": "202",
+            "cityname_english": "Pachrauta",
+            "cityname_nepali": "पचरौता",
+            "district": "21",
+            "population": "34175",
+            "city_type": "3"
+        },
+        {
+            "id": "203",
+            "cityname_english": "Bagchaur",
+            "cityname_nepali": "बागचौर",
+            "district": "60",
+            "population": "34118",
+            "city_type": "3"
+        },
+        {
+            "id": "204",
+            "cityname_english": "Saphebagar",
+            "cityname_nepali": "साफेबगर",
+            "district": "71",
+            "population": "33788",
+            "city_type": "3"
+        },
+        {
+            "id": "205",
+            "cityname_english": "Shaarda",
+            "cityname_nepali": "शारदा",
+            "district": "60",
+            "population": "33730",
+            "city_type": "3"
+        },
+        {
+            "id": "206",
+            "cityname_english": "Aathabiskot",
+            "cityname_nepali": "अाठबिसकाेट",
+            "district": "59",
+            "population": "33601",
+            "city_type": "3"
+        },
+        {
+            "id": "207",
+            "cityname_english": "Mithila Bihari",
+            "cityname_nepali": "मिथिला बिहारी",
+            "district": "17",
+            "population": "33521",
+            "city_type": "3"
+        },
+        {
+            "id": "208",
+            "cityname_english": "Bheri",
+            "cityname_nepali": "भेरी",
+            "district": "63",
+            "population": "33515",
+            "city_type": "3"
+        },
+        {
+            "id": "209",
+            "cityname_english": "Beni",
+            "cityname_nepali": "बेनी",
+            "district": "44",
+            "population": "33498",
+            "city_type": "3"
+        },
+        {
+            "id": "210",
+            "cityname_english": "Bungal",
+            "cityname_nepali": "बुंगल",
+            "district": "70",
+            "population": "33224",
+            "city_type": "3"
+        },
+        {
+            "id": "211",
+            "cityname_english": "Galkot",
+            "cityname_nepali": "गल्कोट",
+            "district": "46",
+            "population": "33097",
+            "city_type": "3"
+        },
+        {
+            "id": "212",
+            "cityname_english": "Dipayal Silgadhi",
+            "cityname_nepali": "दिपायल सिलगढी",
+            "district": "72",
+            "population": "32941",
+            "city_type": "3"
+        },
+        {
+            "id": "213",
+            "cityname_english": "Musikot",
+            "cityname_nepali": "मुसिकोट",
+            "district": "59",
+            "population": "32939",
+            "city_type": "3"
+        },
+        {
+            "id": "214",
+            "cityname_english": "Deumai",
+            "cityname_nepali": "देउमाई",
+            "district": "3",
+            "population": "32927",
+            "city_type": "3"
+        },
+        {
+            "id": "215",
+            "cityname_english": "Pokhariya",
+            "cityname_nepali": "पोखरिया",
+            "district": "22",
+            "population": "32885",
+            "city_type": "3"
+        },
+        {
+            "id": "216",
+            "cityname_english": "Musikot",
+            "cityname_nepali": "मुसिकोट",
+            "district": "50",
+            "population": "32802",
+            "city_type": "3"
+        },
+        {
+            "id": "217",
+            "cityname_english": "Ropla",
+            "cityname_nepali": "रोल्पा",
+            "district": "48",
+            "population": "32759",
+            "city_type": "3"
+        },
+        {
+            "id": "218",
+            "cityname_english": "Mandandeupur",
+            "cityname_nepali": "मण्डनदेउपुर",
+            "district": "27",
+            "population": "32659",
+            "city_type": "3"
+        },
+        {
+            "id": "219",
+            "cityname_english": "Bhumikasthan",
+            "cityname_nepali": "भूमिकास्थान",
+            "district": "55",
+            "population": "32640",
+            "city_type": "3"
+        },
+        {
+            "id": "220",
+            "cityname_english": "Mai",
+            "cityname_nepali": "माई",
+            "district": "3",
+            "population": "32576",
+            "city_type": "3"
+        },
+        {
+            "id": "221",
+            "cityname_english": "Resunga",
+            "cityname_nepali": "रेसुङ्गा",
+            "district": "50",
+            "population": "32545",
+            "city_type": "3"
+        },
+        {
+            "id": "222",
+            "cityname_english": "Mangalsen",
+            "cityname_nepali": "मंगलसेन",
+            "district": "71",
+            "population": "32331",
+            "city_type": "3"
+        },
+        {
+            "id": "223",
+            "cityname_english": "Bideha",
+            "cityname_nepali": "विदेह",
+            "district": "17",
+            "population": "32266",
+            "city_type": "3"
+        },
+        {
+            "id": "224",
+            "cityname_english": "Panchapuri",
+            "cityname_nepali": "पञ्चपुरी",
+            "district": "61",
+            "population": "32231",
+            "city_type": "3"
+        },
+        {
+            "id": "225",
+            "cityname_english": "Dhulikhel",
+            "cityname_nepali": "धुलिखेल",
+            "district": "27",
+            "population": "32162",
+            "city_type": "3"
+        },
+        {
+            "id": "226",
+            "cityname_english": "Dewahi Gonahi",
+            "cityname_nepali": "देवाही गोनाही",
+            "district": "20",
+            "population": "32146",
+            "city_type": "3"
+        },
+        {
+            "id": "227",
+            "cityname_english": "Letang",
+            "cityname_nepali": "लेटाङ",
+            "district": "5",
+            "population": "32053",
+            "city_type": "3"
+        },
+        {
+            "id": "228",
+            "cityname_english": "Shikhar",
+            "cityname_nepali": "शिखर",
+            "district": "72",
+            "population": "31801",
+            "city_type": "3"
+        },
+        {
+            "id": "229",
+            "cityname_english": "Aurahi",
+            "cityname_nepali": "औरही",
+            "district": "18",
+            "population": "31751",
+            "city_type": "3"
+        },
+        {
+            "id": "230",
+            "cityname_english": "Shadanand",
+            "cityname_nepali": "षडानन्द",
+            "district": "10",
+            "population": "31610",
+            "city_type": "3"
+        },
+        {
+            "id": "231",
+            "cityname_english": "Bhimeshwar",
+            "cityname_nepali": "भीमेश्वर",
+            "district": "25",
+            "population": "31480",
+            "city_type": "3"
+        },
+        {
+            "id": "232",
+            "cityname_english": "Jaimini",
+            "cityname_nepali": "जैमिनी",
+            "district": "46",
+            "population": "31430",
+            "city_type": "3"
+        },
+        {
+            "id": "233",
+            "cityname_english": "Bhimad",
+            "cityname_nepali": "भिमाद",
+            "district": "38",
+            "population": "31362",
+            "city_type": "3"
+        },
+        {
+            "id": "234",
+            "cityname_english": "Rajdevi",
+            "cityname_nepali": "राजदेवी",
+            "district": "20",
+            "population": "31292",
+            "city_type": "3"
+        },
+        {
+            "id": "235",
+            "cityname_english": "Khandbari",
+            "cityname_nepali": "खादँवारी",
+            "district": "9",
+            "population": "31177",
+            "city_type": "3"
+        },
+        {
+            "id": "236",
+            "cityname_english": "Dhunibeshi",
+            "cityname_nepali": "धुनीबेंशी",
+            "district": "33",
+            "population": "31029",
+            "city_type": "3"
+        },
+        {
+            "id": "237",
+            "cityname_english": "Matihani",
+            "cityname_nepali": "मटिहानी",
+            "district": "18",
+            "population": "31026",
+            "city_type": "3"
+        },
+        {
+            "id": "238",
+            "cityname_english": "Karjanha",
+            "cityname_nepali": "कर्जन्हा",
+            "district": "16",
+            "population": "30965",
+            "city_type": "3"
+        },
+        {
+            "id": "239",
+            "cityname_english": "Swargadwari",
+            "cityname_nepali": "स्वर्गद्वारी",
+            "district": "49",
+            "population": "30940",
+            "city_type": "3"
+        },
+        {
+            "id": "240",
+            "cityname_english": "Patan",
+            "cityname_nepali": "पाटन",
+            "district": "76",
+            "population": "30435",
+            "city_type": "3"
+        },
+        {
+            "id": "241",
+            "cityname_english": "Lekbeshi",
+            "cityname_nepali": "लेकबेशी",
+            "district": "61",
+            "population": "30295",
+            "city_type": "3"
+        },
+        {
+            "id": "242",
+            "cityname_english": "Ramgopalpur",
+            "cityname_nepali": "रामगोपालपुर",
+            "district": "18",
+            "population": "29612",
+            "city_type": "3"
+        },
+        {
+            "id": "243",
+            "cityname_english": "Halesi Tuwachung",
+            "cityname_nepali": "हलेसी तुवाचुङ",
+            "district": "13",
+            "population": "29532",
+            "city_type": "3"
+        },
+        {
+            "id": "244",
+            "cityname_english": "Namobuddha",
+            "cityname_nepali": "नमोबुद्ध",
+            "district": "27",
+            "population": "29519",
+            "city_type": "3"
+        },
+        {
+            "id": "245",
+            "cityname_english": "Aathabis",
+            "cityname_nepali": "आठबीस",
+            "district": "62",
+            "population": "29227",
+            "city_type": "3"
+        },
+        {
+            "id": "246",
+            "cityname_english": "Ramechhap",
+            "cityname_nepali": "रामेछाप",
+            "district": "24",
+            "population": "28612",
+            "city_type": "3"
+        },
+        {
+            "id": "247",
+            "cityname_english": "Siddhicharan",
+            "cityname_nepali": "सिद्दिचरण",
+            "district": "12",
+            "population": "28374",
+            "city_type": "3"
+        },
+        {
+            "id": "248",
+            "cityname_english": "Panchadewal Binayak",
+            "cityname_nepali": "पञ्चदेवल विनायक",
+            "district": "71",
+            "population": "27485",
+            "city_type": "3"
+        },
+        {
+            "id": "249",
+            "cityname_english": "Chaurjahari",
+            "cityname_nepali": "चौरजहारी",
+            "district": "59",
+            "population": "27438",
+            "city_type": "3"
+        },
+        {
+            "id": "250",
+            "cityname_english": "Chainpur",
+            "cityname_nepali": "चैनपुर",
+            "district": "9",
+            "population": "27308",
+            "city_type": "3"
+        },
+        {
+            "id": "251",
+            "cityname_english": "Bhojpur",
+            "cityname_nepali": "भोजपुर",
+            "district": "10",
+            "population": "27204",
+            "city_type": "3"
+        },
+        {
+            "id": "252",
+            "cityname_english": "Narayan",
+            "cityname_nepali": "नारायण",
+            "district": "62",
+            "population": "27037",
+            "city_type": "3"
+        },
+        {
+            "id": "253",
+            "cityname_english": "Sundarbazar",
+            "cityname_nepali": "सुन्दरबजार",
+            "district": "37",
+            "population": "26861",
+            "city_type": "3"
+        },
+        {
+            "id": "254",
+            "cityname_english": "Barhabise",
+            "cityname_nepali": "बाह्रविसे",
+            "district": "26",
+            "population": "26700",
+            "city_type": "3"
+        },
+        {
+            "id": "255",
+            "cityname_english": "Maulapur",
+            "cityname_nepali": "मौलापुर",
+            "district": "20",
+            "population": "26431",
+            "city_type": "3"
+        },
+        {
+            "id": "256",
+            "cityname_english": "Phungling",
+            "cityname_nepali": "फुङलिङ",
+            "district": "1",
+            "population": "26406",
+            "city_type": "3"
+        },
+        {
+            "id": "257",
+            "cityname_english": "Dhorpatan",
+            "cityname_nepali": "ढोरपाटन",
+            "district": "46",
+            "population": "26215",
+            "city_type": "3"
+        },
+        {
+            "id": "258",
+            "cityname_english": "Chamunda Bindrasaini",
+            "cityname_nepali": "चामुण्डा विन्द्रासैनी",
+            "district": "62",
+            "population": "26149",
+            "city_type": "3"
+        },
+        {
+            "id": "259",
+            "cityname_english": "Chapakot",
+            "cityname_nepali": "चापाकोट",
+            "district": "40",
+            "population": "26042",
+            "city_type": "3"
+        },
+        {
+            "id": "260",
+            "cityname_english": "Nalgad",
+            "cityname_nepali": "नलगाड",
+            "district": "63",
+            "population": "25597",
+            "city_type": "3"
+        },
+        {
+            "id": "261",
+            "cityname_english": "Bheerkot",
+            "cityname_nepali": "भिरकोट",
+            "district": "40",
+            "population": "25583",
+            "city_type": "3"
+        },
+        {
+            "id": "262",
+            "cityname_english": "Shankharapur",
+            "cityname_nepali": "शङ्खरापुर",
+            "district": "30",
+            "population": "25338",
+            "city_type": "3"
+        },
+        {
+            "id": "263",
+            "cityname_english": "Mahalaxmi",
+            "cityname_nepali": "महालक्ष्मी",
+            "district": "7",
+            "population": "24800",
+            "city_type": "3"
+        },
+        {
+            "id": "264",
+            "cityname_english": "Phalewas",
+            "cityname_nepali": "फलेवास",
+            "district": "45",
+            "population": "24687",
+            "city_type": "3"
+        },
+        {
+            "id": "265",
+            "cityname_english": "Daxinkaali",
+            "cityname_nepali": "दक्षिणकाली",
+            "district": "30",
+            "population": "24296",
+            "city_type": "3"
+        },
+        {
+            "id": "266",
+            "cityname_english": "Kamalbazar",
+            "cityname_nepali": "कमलबजार",
+            "district": "71",
+            "population": "23738",
+            "city_type": "3"
+        },
+        {
+            "id": "267",
+            "cityname_english": "Madhya Nepal",
+            "cityname_nepali": "मध्यनेपाल",
+            "district": "37",
+            "population": "23385",
+            "city_type": "3"
+        },
+        {
+            "id": "268",
+            "cityname_english": "Melauli",
+            "cityname_nepali": "मेलौली",
+            "district": "76",
+            "population": "22545",
+            "city_type": "3"
+        },
+        {
+            "id": "269",
+            "cityname_english": "Jaya Prithvi",
+            "cityname_nepali": "जयपृथ्वी",
+            "district": "70",
+            "population": "22191",
+            "city_type": "3"
+        },
+        {
+            "id": "270",
+            "cityname_english": "Pakhribas",
+            "cityname_nepali": "पाख्रिवास",
+            "district": "7",
+            "population": "22078",
+            "city_type": "3"
+        },
+        {
+            "id": "271",
+            "cityname_english": "Shailyashikhar",
+            "cityname_nepali": "शैल्यशिखर",
+            "district": "77",
+            "population": "22060",
+            "city_type": "3"
+        },
+        {
+            "id": "272",
+            "cityname_english": "Budhiganga",
+            "cityname_nepali": "बुढीगंगा",
+            "district": "69",
+            "population": "21677",
+            "city_type": "3"
+        },
+        {
+            "id": "273",
+            "cityname_english": "Aamargadhi",
+            "cityname_nepali": "अमरगढी",
+            "district": "75",
+            "population": "21245",
+            "city_type": "3"
+        },
+        {
+            "id": "274",
+            "cityname_english": "Mahakali",
+            "cityname_nepali": "महाकाली",
+            "district": "77",
+            "population": "21231",
+            "city_type": "3"
+        },
+        {
+            "id": "275",
+            "cityname_english": "Saptakoshi",
+            "cityname_nepali": "सप्तकोशी",
+            "district": "15",
+            "population": "21131",
+            "city_type": "3"
+        },
+        {
+            "id": "276",
+            "cityname_english": "Solu Dudhkunda",
+            "cityname_nepali": "सोलुदुधकुण्ड",
+            "district": "11",
+            "population": "20399",
+            "city_type": "3"
+        },
+        {
+            "id": "277",
+            "cityname_english": "Khandachakra",
+            "cityname_nepali": "खाँडाचक्र",
+            "district": "66",
+            "population": "20288",
+            "city_type": "3"
+        },
+        {
+            "id": "278",
+            "cityname_english": "Chhayanath Rara",
+            "cityname_nepali": "छायाँनाथ रारा",
+            "district": "67",
+            "population": "20078",
+            "city_type": "3"
+        },
+        {
+            "id": "279",
+            "cityname_english": "Myanglung",
+            "cityname_nepali": "म्याङलुङ",
+            "district": "8",
+            "population": "19659",
+            "city_type": "3"
+        },
+        {
+            "id": "280",
+            "cityname_english": "Chandannath",
+            "cityname_nepali": "चन्दननाथ",
+            "district": "65",
+            "population": "19047",
+            "city_type": "3"
+        },
+        {
+            "id": "281",
+            "cityname_english": "Budhinanda",
+            "cityname_nepali": "बुढीनन्दा",
+            "district": "69",
+            "population": "18776",
+            "city_type": "3"
+        },
+        {
+            "id": "282",
+            "cityname_english": "Rainas",
+            "cityname_nepali": "रार्इनास",
+            "district": "37",
+            "population": "18527",
+            "city_type": "3"
+        },
+        {
+            "id": "283",
+            "cityname_english": "Tribeni",
+            "cityname_nepali": "त्रिवेणी",
+            "district": "69",
+            "population": "18363",
+            "city_type": "3"
+        },
+        {
+            "id": "284",
+            "cityname_english": "Dharmadevi",
+            "cityname_nepali": "धर्मदेवी",
+            "district": "9",
+            "population": "18235",
+            "city_type": "3"
+        },
+        {
+            "id": "285",
+            "cityname_english": "Panchkhapan",
+            "cityname_nepali": "पाँचखपन",
+            "district": "9",
+            "population": "17521",
+            "city_type": "3"
+        },
+        {
+            "id": "286",
+            "cityname_english": "Laligurans",
+            "cityname_nepali": "लालिगुराँस",
+            "district": "8",
+            "population": "16970",
+            "city_type": "3"
+        },
+        {
+            "id": "287",
+            "cityname_english": "Badimalika",
+            "cityname_nepali": "बडीमालिका",
+            "district": "69",
+            "population": "16818",
+            "city_type": "3"
+        },
+        {
+            "id": "288",
+            "cityname_english": "Raskot",
+            "cityname_nepali": "रास्कोट",
+            "district": "66",
+            "population": "16272",
+            "city_type": "3"
+        },
+        {
+            "id": "289",
+            "cityname_english": "Tilagufa",
+            "cityname_nepali": "तिलागुफा",
+            "district": "66",
+            "population": "15766",
+            "city_type": "3"
+        },
+        {
+            "id": "290",
+            "cityname_english": "Jiri",
+            "cityname_nepali": "जिरी",
+            "district": "25",
+            "population": "15515",
+            "city_type": "3"
+        },
+        {
+            "id": "291",
+            "cityname_english": "Madi",
+            "cityname_nepali": "मादी",
+            "district": "9",
+            "population": "14470",
+            "city_type": "3"
+        },
+        {
+            "id": "292",
+            "cityname_english": "Tripura Sundari",
+            "cityname_nepali": "त्रिपुरासुन्दरी",
+            "district": "64",
+            "population": "10104",
+            "city_type": "3"
+        },
+        {
+            "id": "293",
+            "cityname_english": "Thuli Bheri",
+            "cityname_nepali": "ठूली भेरी",
+            "district": "64",
+            "population": "8370",
+            "city_type": "3"
+        }
+    ]
